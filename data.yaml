@@ -1,5 +1,5 @@
-train: ../train/images
-val: ../valid/images
+train: /content/DexcoAutomatic/train/images
+val: /content/DexcoAutomatic/valid/images
 
 nc: 2
 names: ['Tree', 'Wood']
